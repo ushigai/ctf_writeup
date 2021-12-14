@@ -1,7 +1,8 @@
 from string import ascii_lowercase, digits
 
-CHARSET = 'DUCTF{}_!?\'' + ascii_lowercase + digits
+CHARSET = "DUCTF{}_!?'" + ascii_lowercase + digits
 n = len(CHARSET)
+print(n)
 
 A = [1, 20, 35, 33, 42, 14, 41]
 
@@ -10,6 +11,7 @@ S_eq = [[i, A[i]] for i in range(7)]
 print(S_eq)
 P.<x> = PolynomialRing(GF(47))
 f = P.lagrange_polynomial(S_eq)
+print(f)
 
 assert all([f(x=i) == A[i] for i in range(7)])
 

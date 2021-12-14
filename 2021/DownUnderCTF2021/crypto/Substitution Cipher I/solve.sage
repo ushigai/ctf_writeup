@@ -12,4 +12,5 @@ for c in cipher:
     else:
         print(chr(int(a)), end="")
     
+print("")
     
