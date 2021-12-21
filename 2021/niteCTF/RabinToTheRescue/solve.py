@@ -23,7 +23,7 @@ assert isPrime(p) and isPrime(q)
 
 for i in range(10**5):
     flag_ = long_to_bytes(int(iroot(flag, 2)[0]))
-    if b"CTF{" in flag_:
+    if b"nite{" in flag_:
         print(flag_)
     flag += n
 
