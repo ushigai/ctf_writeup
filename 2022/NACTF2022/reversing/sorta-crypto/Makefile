@@ -1,0 +1,2 @@
+data.crypt: data
+	./encr <$< >$@
