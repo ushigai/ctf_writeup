@@ -11,13 +11,18 @@ while True:
     Q = int(str(q) + str(p))
     PP = int(str(P) + str(Q))
     QQ = int(str(Q) + str(P))
-    break
+    NN = PP * QQ
+    print("==============")
+    print("n : ", p*q)
+    print("n : ", p*q)
+    print("NN :                     ", str(NN)[-18:])
+    print("NN :", str(NN)[:18])
+    #break
     #ans1 = str(P*Q)
     #ans2 = str(n)[-]
 	# if isPrime(PP) and isPrime(QQ):
 		# break
 
-NN = PP * QQ
 
 print("p  :", p)
 print("q  :", q)
@@ -25,7 +30,5 @@ print("q  :", q)
 #print("QQ :", QQ)
 print("P :", P)
 print("Q :", Q)
-print("n :", p*q)
-print("N :", str(P*Q)[-42:])
-print("NN :", str(NN)[-42:])
+#print("N :", str(P*Q)[-40:])
 
