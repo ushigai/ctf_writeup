@@ -40,10 +40,13 @@ def encrypt(msg):
         v = [0]*i + [hyper[i]] + [0]*(l - i - 1)
         V.append(v)
     print(*V, sep="\n")
-    #random.shuffle(V)
+    print("-*-*-*-*-")
+    random.shuffle(V)
+    print(*V, sep="\n")
 
     for _ in range(l):
         R, v = [random.randint(0, 126) for _ in range(l)], [0]*l
+        print("R :", R)
         for j in range(l):
             r = sprod(R[j], V[j])
             v = vsum(v, r)
@@ -52,6 +55,7 @@ def encrypt(msg):
     random.shuffle(transpose(W))
     return W
 
-FLAG = "FLAG{hoge}"
+FLAG = "FLAG"
 enc = encrypt(FLAG)
-print(enc)
+print("-*-*-*-*-")
+print(*enc, sep="\n")
