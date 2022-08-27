@@ -3,7 +3,6 @@
 from Crypto.Util.number import *
 
 nbit = 64
-print("hoge")
 
 while True:
     p, q = getPrime(nbit), getPrime(nbit)
@@ -12,11 +11,15 @@ while True:
     PP = int(str(P) + str(Q))
     QQ = int(str(Q) + str(P))
     NN = PP * QQ
-    print("==============")
-    print("n : ", p*q)
-    print("n : ", p*q)
-    print("NN :                     ", str(NN)[-18:])
-    print("NN :", str(NN)[:18])
+    strn = str(p*q)
+    if strn[:18] == str(NN)[:18] and \
+        strn[-18:] == str(NN)[-18:]:
+        pass
+    else:
+        print("==============")
+        print("n : ", p*q)
+        print("NN :                     ", str(NN)[-18:])
+        print("NN :", str(NN)[:18])
     #break
     #ans1 = str(P*Q)
     #ans2 = str(n)[-]
