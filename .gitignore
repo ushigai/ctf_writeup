@@ -1,0 +1,5 @@
+.vscode
+*.sage.py
+*/.vscode/*
+*.pyc
+CRYPTOHACK*
