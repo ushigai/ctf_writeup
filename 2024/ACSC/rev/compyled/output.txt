@@ -1,0 +1,1248 @@
+run.pyc (Python 3.10)
+[Code]
+    File Name: <sandbox>
+    Object Name: <eval>
+    Arg Count: 0
+    Pos Only Arg Count: 0
+    KW Only Arg Count: 0
+    Locals: 0
+    Stack Size: 0
+    Flags: 0x00000040 (CO_NOFREE)
+    [Names]
+        'print'
+        'input'
+    [Var Names]
+    [Free Vars]
+    [Cell Vars]
+    [Constants]
+        'FLAG> '
+        'CORRECT'
+    [Disassembly]
+        0       LOAD_NAME                       1: input
+        2       LOAD_CONST                      0: 'FLAG> '
+        4       CALL_FUNCTION                   1
+        6       LOAD_CONST                      12 <INVALID>
+        8       LOAD_CONST                      20 <INVALID>
+        10      BUILD_TUPLE                     0
+        12      MATCH_SEQUENCE                  
+        14      ROT_TWO                         
+        16      POP_TOP                         
+        18      DUP_TOP                         
+        20      BINARY_ADD                      
+        22      DUP_TOP                         
+        24      BINARY_ADD                      
+        26      DUP_TOP                         
+        28      BINARY_ADD                      
+        30      DUP_TOP                         
+        32      BINARY_ADD                      
+        34      DUP_TOP                         
+        36      BINARY_ADD                      
+        38      DUP_TOP                         
+        40      BINARY_ADD                      
+        42      BUILD_TUPLE                     0
+        44      MATCH_SEQUENCE                  
+        46      ROT_TWO                         
+        48      POP_TOP                         
+        50      BINARY_ADD                      
+        52      BUILD_TUPLE                     0
+        54      MATCH_SEQUENCE                  
+        56      ROT_TWO                         
+        58      POP_TOP                         
+        60      DUP_TOP                         
+        62      BINARY_ADD                      
+        64      DUP_TOP                         
+        66      BINARY_ADD                      
+        68      DUP_TOP                         
+        70      BINARY_ADD                      
+        72      DUP_TOP                         
+        74      BINARY_ADD                      
+        76      DUP_TOP                         
+        78      BINARY_ADD                      
+        80      BUILD_TUPLE                     0
+        82      MATCH_SEQUENCE                  
+        84      ROT_TWO                         
+        86      POP_TOP                         
+        88      BINARY_ADD                      
+        90      DUP_TOP                         
+        92      BINARY_ADD                      
+        94      BUILD_TUPLE                     0
+        96      MATCH_SEQUENCE                  
+        98      ROT_TWO                         
+        100     POP_TOP                         
+        102     BINARY_ADD                      
+        104     BUILD_TUPLE                     0
+        106     MATCH_SEQUENCE                  
+        108     ROT_TWO                         
+        110     POP_TOP                         
+        112     DUP_TOP                         
+        114     BINARY_ADD                      
+        116     DUP_TOP                         
+        118     BINARY_ADD                      
+        120     BUILD_TUPLE                     0
+        122     MATCH_SEQUENCE                  
+        124     ROT_TWO                         
+        126     POP_TOP                         
+        128     BINARY_ADD                      
+        130     DUP_TOP                         
+        132     BINARY_ADD                      
+        134     DUP_TOP                         
+        136     BINARY_ADD                      
+        138     DUP_TOP                         
+        140     BINARY_ADD                      
+        142     BUILD_TUPLE                     0
+        144     MATCH_SEQUENCE                  
+        146     ROT_TWO                         
+        148     POP_TOP                         
+        150     BINARY_ADD                      
+        152     DUP_TOP                         
+        154     BINARY_ADD                      
+        156     BUILD_TUPLE                     0
+        158     MATCH_SEQUENCE                  
+        160     ROT_TWO                         
+        162     POP_TOP                         
+        164     BINARY_ADD                      
+        166     BUILD_TUPLE                     0
+        168     MATCH_SEQUENCE                  
+        170     ROT_TWO                         
+        172     POP_TOP                         
+        174     DUP_TOP                         
+        176     BINARY_ADD                      
+        178     DUP_TOP                         
+        180     BINARY_ADD                      
+        182     DUP_TOP                         
+        184     BINARY_ADD                      
+        186     DUP_TOP                         
+        188     BINARY_ADD                      
+        190     DUP_TOP                         
+        192     BINARY_ADD                      
+        194     BUILD_TUPLE                     0
+        196     MATCH_SEQUENCE                  
+        198     ROT_TWO                         
+        200     POP_TOP                         
+        202     BINARY_ADD                      
+        204     DUP_TOP                         
+        206     BINARY_ADD                      
+        208     BUILD_TUPLE                     0
+        210     MATCH_SEQUENCE                  
+        212     ROT_TWO                         
+        214     POP_TOP                         
+        216     BINARY_ADD                      
+        218     BUILD_TUPLE                     0
+        220     MATCH_SEQUENCE                  
+        222     ROT_TWO                         
+        224     POP_TOP                         
+        226     DUP_TOP                         
+        228     BINARY_ADD                      
+        230     BUILD_TUPLE                     0
+        232     MATCH_SEQUENCE                  
+        234     ROT_TWO                         
+        236     POP_TOP                         
+        238     BINARY_ADD                      
+        240     DUP_TOP                         
+        242     BINARY_ADD                      
+        244     BUILD_TUPLE                     0
+        246     MATCH_SEQUENCE                  
+        248     ROT_TWO                         
+        250     POP_TOP                         
+        252     BINARY_ADD                      
+        254     DUP_TOP                         
+        256     BINARY_ADD                      
+        258     BUILD_TUPLE                     0
+        260     MATCH_SEQUENCE                  
+        262     ROT_TWO                         
+        264     POP_TOP                         
+        266     BINARY_ADD                      
+        268     DUP_TOP                         
+        270     BINARY_ADD                      
+        272     DUP_TOP                         
+        274     BINARY_ADD                      
+        276     BUILD_TUPLE                     0
+        278     MATCH_SEQUENCE                  
+        280     ROT_TWO                         
+        282     POP_TOP                         
+        284     BINARY_ADD                      
+        286     DUP_TOP                         
+        288     BINARY_ADD                      
+        290     BUILD_TUPLE                     0
+        292     MATCH_SEQUENCE                  
+        294     ROT_TWO                         
+        296     POP_TOP                         
+        298     BINARY_ADD                      
+        300     BUILD_TUPLE                     0
+        302     MATCH_SEQUENCE                  
+        304     ROT_TWO                         
+        306     POP_TOP                         
+        308     DUP_TOP                         
+        310     BINARY_ADD                      
+        312     BUILD_TUPLE                     0
+        314     MATCH_SEQUENCE                  
+        316     ROT_TWO                         
+        318     POP_TOP                         
+        320     BINARY_ADD                      
+        322     DUP_TOP                         
+        324     BINARY_ADD                      
+        326     DUP_TOP                         
+        328     BINARY_ADD                      
+        330     DUP_TOP                         
+        332     BINARY_ADD                      
+        334     BUILD_TUPLE                     0
+        336     MATCH_SEQUENCE                  
+        338     ROT_TWO                         
+        340     POP_TOP                         
+        342     BINARY_ADD                      
+        344     DUP_TOP                         
+        346     BINARY_ADD                      
+        348     DUP_TOP                         
+        350     BINARY_ADD                      
+        352     BUILD_TUPLE                     0
+        354     MATCH_SEQUENCE                  
+        356     ROT_TWO                         
+        358     POP_TOP                         
+        360     DUP_TOP                         
+        362     BINARY_ADD                      
+        364     BUILD_TUPLE                     0
+        366     MATCH_SEQUENCE                  
+        368     ROT_TWO                         
+        370     POP_TOP                         
+        372     BINARY_ADD                      
+        374     DUP_TOP                         
+        376     BINARY_ADD                      
+        378     DUP_TOP                         
+        380     BINARY_ADD                      
+        382     DUP_TOP                         
+        384     BINARY_ADD                      
+        386     DUP_TOP                         
+        388     BINARY_ADD                      
+        390     BUILD_TUPLE                     0
+        392     MATCH_SEQUENCE                  
+        394     ROT_TWO                         
+        396     POP_TOP                         
+        398     BINARY_ADD                      
+        400     BUILD_TUPLE                     0
+        402     MATCH_SEQUENCE                  
+        404     ROT_TWO                         
+        406     POP_TOP                         
+        408     DUP_TOP                         
+        410     BINARY_ADD                      
+        412     BUILD_TUPLE                     0
+        414     MATCH_SEQUENCE                  
+        416     ROT_TWO                         
+        418     POP_TOP                         
+        420     BINARY_ADD                      
+        422     DUP_TOP                         
+        424     BINARY_ADD                      
+        426     DUP_TOP                         
+        428     BINARY_ADD                      
+        430     DUP_TOP                         
+        432     BINARY_ADD                      
+        434     BUILD_TUPLE                     0
+        436     MATCH_SEQUENCE                  
+        438     ROT_TWO                         
+        440     POP_TOP                         
+        442     BINARY_ADD                      
+        444     DUP_TOP                         
+        446     BINARY_ADD                      
+        448     DUP_TOP                         
+        450     BINARY_ADD                      
+        452     BUILD_TUPLE                     0
+        454     MATCH_SEQUENCE                  
+        456     ROT_TWO                         
+        458     POP_TOP                         
+        460     DUP_TOP                         
+        462     BINARY_ADD                      
+        464     DUP_TOP                         
+        466     BINARY_ADD                      
+        468     BUILD_TUPLE                     0
+        470     MATCH_SEQUENCE                  
+        472     ROT_TWO                         
+        474     POP_TOP                         
+        476     BINARY_ADD                      
+        478     DUP_TOP                         
+        480     BINARY_ADD                      
+        482     BUILD_TUPLE                     0
+        484     MATCH_SEQUENCE                  
+        486     ROT_TWO                         
+        488     POP_TOP                         
+        490     BINARY_ADD                      
+        492     DUP_TOP                         
+        494     BINARY_ADD                      
+        496     BUILD_TUPLE                     0
+        498     MATCH_SEQUENCE                  
+        500     ROT_TWO                         
+        502     POP_TOP                         
+        504     BINARY_ADD                      
+        506     DUP_TOP                         
+        508     BINARY_ADD                      
+        510     BUILD_TUPLE                     0
+        512     MATCH_SEQUENCE                  
+        514     ROT_TWO                         
+        516     POP_TOP                         
+        518     BINARY_ADD                      
+        520     DUP_TOP                         
+        522     BINARY_ADD                      
+        524     BUILD_TUPLE                     0
+        526     MATCH_SEQUENCE                  
+        528     ROT_TWO                         
+        530     POP_TOP                         
+        532     BINARY_ADD                      
+        534     BUILD_TUPLE                     0
+        536     MATCH_SEQUENCE                  
+        538     ROT_TWO                         
+        540     POP_TOP                         
+        542     DUP_TOP                         
+        544     BINARY_ADD                      
+        546     BUILD_TUPLE                     0
+        548     MATCH_SEQUENCE                  
+        550     ROT_TWO                         
+        552     POP_TOP                         
+        554     BINARY_ADD                      
+        556     DUP_TOP                         
+        558     BINARY_ADD                      
+        560     BUILD_TUPLE                     0
+        562     MATCH_SEQUENCE                  
+        564     ROT_TWO                         
+        566     POP_TOP                         
+        568     BINARY_ADD                      
+        570     DUP_TOP                         
+        572     BINARY_ADD                      
+        574     DUP_TOP                         
+        576     BINARY_ADD                      
+        578     BUILD_TUPLE                     0
+        580     MATCH_SEQUENCE                  
+        582     ROT_TWO                         
+        584     POP_TOP                         
+        586     BINARY_ADD                      
+        588     DUP_TOP                         
+        590     BINARY_ADD                      
+        592     DUP_TOP                         
+        594     BINARY_ADD                      
+        596     BUILD_TUPLE                     0
+        598     MATCH_SEQUENCE                  
+        600     ROT_TWO                         
+        602     POP_TOP                         
+        604     BINARY_ADD                      
+        606     BUILD_TUPLE                     0
+        608     MATCH_SEQUENCE                  
+        610     ROT_TWO                         
+        612     POP_TOP                         
+        614     DUP_TOP                         
+        616     BINARY_ADD                      
+        618     DUP_TOP                         
+        620     BINARY_ADD                      
+        622     BUILD_TUPLE                     0
+        624     MATCH_SEQUENCE                  
+        626     ROT_TWO                         
+        628     POP_TOP                         
+        630     BINARY_ADD                      
+        632     DUP_TOP                         
+        634     BINARY_ADD                      
+        636     BUILD_TUPLE                     0
+        638     MATCH_SEQUENCE                  
+        640     ROT_TWO                         
+        642     POP_TOP                         
+        644     BINARY_ADD                      
+        646     DUP_TOP                         
+        648     BINARY_ADD                      
+        650     BUILD_TUPLE                     0
+        652     MATCH_SEQUENCE                  
+        654     ROT_TWO                         
+        656     POP_TOP                         
+        658     BINARY_ADD                      
+        660     DUP_TOP                         
+        662     BINARY_ADD                      
+        664     BUILD_TUPLE                     0
+        666     MATCH_SEQUENCE                  
+        668     ROT_TWO                         
+        670     POP_TOP                         
+        672     BINARY_ADD                      
+        674     DUP_TOP                         
+        676     BINARY_ADD                      
+        678     BUILD_TUPLE                     0
+        680     MATCH_SEQUENCE                  
+        682     ROT_TWO                         
+        684     POP_TOP                         
+        686     BINARY_ADD                      
+        688     BUILD_TUPLE                     0
+        690     MATCH_SEQUENCE                  
+        692     ROT_TWO                         
+        694     POP_TOP                         
+        696     DUP_TOP                         
+        698     BINARY_ADD                      
+        700     BUILD_TUPLE                     0
+        702     MATCH_SEQUENCE                  
+        704     ROT_TWO                         
+        706     POP_TOP                         
+        708     BINARY_ADD                      
+        710     DUP_TOP                         
+        712     BINARY_ADD                      
+        714     DUP_TOP                         
+        716     BINARY_ADD                      
+        718     BUILD_TUPLE                     0
+        720     MATCH_SEQUENCE                  
+        722     ROT_TWO                         
+        724     POP_TOP                         
+        726     BINARY_ADD                      
+        728     DUP_TOP                         
+        730     BINARY_ADD                      
+        732     BUILD_TUPLE                     0
+        734     MATCH_SEQUENCE                  
+        736     ROT_TWO                         
+        738     POP_TOP                         
+        740     BINARY_ADD                      
+        742     DUP_TOP                         
+        744     BINARY_ADD                      
+        746     BUILD_TUPLE                     0
+        748     MATCH_SEQUENCE                  
+        750     ROT_TWO                         
+        752     POP_TOP                         
+        754     BINARY_ADD                      
+        756     DUP_TOP                         
+        758     BINARY_ADD                      
+        760     BUILD_TUPLE                     0
+        762     MATCH_SEQUENCE                  
+        764     ROT_TWO                         
+        766     POP_TOP                         
+        768     DUP_TOP                         
+        770     BINARY_ADD                      
+        772     BUILD_TUPLE                     0
+        774     MATCH_SEQUENCE                  
+        776     ROT_TWO                         
+        778     POP_TOP                         
+        780     BINARY_ADD                      
+        782     DUP_TOP                         
+        784     BINARY_ADD                      
+        786     DUP_TOP                         
+        788     BINARY_ADD                      
+        790     BUILD_TUPLE                     0
+        792     MATCH_SEQUENCE                  
+        794     ROT_TWO                         
+        796     POP_TOP                         
+        798     BINARY_ADD                      
+        800     DUP_TOP                         
+        802     BINARY_ADD                      
+        804     BUILD_TUPLE                     0
+        806     MATCH_SEQUENCE                  
+        808     ROT_TWO                         
+        810     POP_TOP                         
+        812     BINARY_ADD                      
+        814     DUP_TOP                         
+        816     BINARY_ADD                      
+        818     BUILD_TUPLE                     0
+        820     MATCH_SEQUENCE                  
+        822     ROT_TWO                         
+        824     POP_TOP                         
+        826     BINARY_ADD                      
+        828     DUP_TOP                         
+        830     BINARY_ADD                      
+        832     BUILD_TUPLE                     0
+        834     MATCH_SEQUENCE                  
+        836     ROT_TWO                         
+        838     POP_TOP                         
+        840     BINARY_ADD                      
+        842     BUILD_TUPLE                     0
+        844     MATCH_SEQUENCE                  
+        846     ROT_TWO                         
+        848     POP_TOP                         
+        850     DUP_TOP                         
+        852     BINARY_ADD                      
+        854     BUILD_TUPLE                     0
+        856     MATCH_SEQUENCE                  
+        858     ROT_TWO                         
+        860     POP_TOP                         
+        862     BINARY_ADD                      
+        864     DUP_TOP                         
+        866     BINARY_ADD                      
+        868     BUILD_TUPLE                     0
+        870     MATCH_SEQUENCE                  
+        872     ROT_TWO                         
+        874     POP_TOP                         
+        876     BINARY_ADD                      
+        878     DUP_TOP                         
+        880     BINARY_ADD                      
+        882     DUP_TOP                         
+        884     BINARY_ADD                      
+        886     BUILD_TUPLE                     0
+        888     MATCH_SEQUENCE                  
+        890     ROT_TWO                         
+        892     POP_TOP                         
+        894     BINARY_ADD                      
+        896     DUP_TOP                         
+        898     BINARY_ADD                      
+        900     DUP_TOP                         
+        902     BINARY_ADD                      
+        904     BUILD_TUPLE                     0
+        906     MATCH_SEQUENCE                  
+        908     ROT_TWO                         
+        910     POP_TOP                         
+        912     DUP_TOP                         
+        914     BINARY_ADD                      
+        916     BUILD_TUPLE                     0
+        918     MATCH_SEQUENCE                  
+        920     ROT_TWO                         
+        922     POP_TOP                         
+        924     BINARY_ADD                      
+        926     DUP_TOP                         
+        928     BINARY_ADD                      
+        930     DUP_TOP                         
+        932     BINARY_ADD                      
+        934     BUILD_TUPLE                     0
+        936     MATCH_SEQUENCE                  
+        938     ROT_TWO                         
+        940     POP_TOP                         
+        942     BINARY_ADD                      
+        944     DUP_TOP                         
+        946     BINARY_ADD                      
+        948     DUP_TOP                         
+        950     BINARY_ADD                      
+        952     DUP_TOP                         
+        954     BINARY_ADD                      
+        956     BUILD_TUPLE                     0
+        958     MATCH_SEQUENCE                  
+        960     ROT_TWO                         
+        962     POP_TOP                         
+        964     BINARY_ADD                      
+        966     BUILD_TUPLE                     0
+        968     MATCH_SEQUENCE                  
+        970     ROT_TWO                         
+        972     POP_TOP                         
+        974     DUP_TOP                         
+        976     BINARY_ADD                      
+        978     BUILD_TUPLE                     0
+        980     MATCH_SEQUENCE                  
+        982     ROT_TWO                         
+        984     POP_TOP                         
+        986     BINARY_ADD                      
+        988     DUP_TOP                         
+        990     BINARY_ADD                      
+        992     DUP_TOP                         
+        994     BINARY_ADD                      
+        996     DUP_TOP                         
+        998     BINARY_ADD                      
+        1000    DUP_TOP                         
+        1002    BINARY_ADD                      
+        1004    BUILD_TUPLE                     0
+        1006    MATCH_SEQUENCE                  
+        1008    ROT_TWO                         
+        1010    POP_TOP                         
+        1012    BINARY_ADD                      
+        1014    DUP_TOP                         
+        1016    BINARY_ADD                      
+        1018    BUILD_TUPLE                     0
+        1020    MATCH_SEQUENCE                  
+        1022    ROT_TWO                         
+        1024    POP_TOP                         
+        1026    BINARY_ADD                      
+        1028    BUILD_TUPLE                     0
+        1030    MATCH_SEQUENCE                  
+        1032    ROT_TWO                         
+        1034    POP_TOP                         
+        1036    DUP_TOP                         
+        1038    BINARY_ADD                      
+        1040    BUILD_TUPLE                     0
+        1042    MATCH_SEQUENCE                  
+        1044    ROT_TWO                         
+        1046    POP_TOP                         
+        1048    BINARY_ADD                      
+        1050    DUP_TOP                         
+        1052    BINARY_ADD                      
+        1054    DUP_TOP                         
+        1056    BINARY_ADD                      
+        1058    DUP_TOP                         
+        1060    BINARY_ADD                      
+        1062    BUILD_TUPLE                     0
+        1064    MATCH_SEQUENCE                  
+        1066    ROT_TWO                         
+        1068    POP_TOP                         
+        1070    BINARY_ADD                      
+        1072    DUP_TOP                         
+        1074    BINARY_ADD                      
+        1076    DUP_TOP                         
+        1078    BINARY_ADD                      
+        1080    BUILD_TUPLE                     0
+        1082    MATCH_SEQUENCE                  
+        1084    ROT_TWO                         
+        1086    POP_TOP                         
+        1088    BINARY_ADD                      
+        1090    BUILD_TUPLE                     0
+        1092    MATCH_SEQUENCE                  
+        1094    ROT_TWO                         
+        1096    POP_TOP                         
+        1098    DUP_TOP                         
+        1100    BINARY_ADD                      
+        1102    DUP_TOP                         
+        1104    BINARY_ADD                      
+        1106    BUILD_TUPLE                     0
+        1108    MATCH_SEQUENCE                  
+        1110    ROT_TWO                         
+        1112    POP_TOP                         
+        1114    BINARY_ADD                      
+        1116    DUP_TOP                         
+        1118    BINARY_ADD                      
+        1120    BUILD_TUPLE                     0
+        1122    MATCH_SEQUENCE                  
+        1124    ROT_TWO                         
+        1126    POP_TOP                         
+        1128    BINARY_ADD                      
+        1130    DUP_TOP                         
+        1132    BINARY_ADD                      
+        1134    BUILD_TUPLE                     0
+        1136    MATCH_SEQUENCE                  
+        1138    ROT_TWO                         
+        1140    POP_TOP                         
+        1142    BINARY_ADD                      
+        1144    DUP_TOP                         
+        1146    BINARY_ADD                      
+        1148    BUILD_TUPLE                     0
+        1150    MATCH_SEQUENCE                  
+        1152    ROT_TWO                         
+        1154    POP_TOP                         
+        1156    BINARY_ADD                      
+        1158    DUP_TOP                         
+        1160    BINARY_ADD                      
+        1162    BUILD_TUPLE                     0
+        1164    MATCH_SEQUENCE                  
+        1166    ROT_TWO                         
+        1168    POP_TOP                         
+        1170    BINARY_ADD                      
+        1172    BUILD_TUPLE                     0
+        1174    MATCH_SEQUENCE                  
+        1176    ROT_TWO                         
+        1178    POP_TOP                         
+        1180    DUP_TOP                         
+        1182    BINARY_ADD                      
+        1184    BUILD_TUPLE                     0
+        1186    MATCH_SEQUENCE                  
+        1188    ROT_TWO                         
+        1190    POP_TOP                         
+        1192    BINARY_ADD                      
+        1194    DUP_TOP                         
+        1196    BINARY_ADD                      
+        1198    BUILD_TUPLE                     0
+        1200    MATCH_SEQUENCE                  
+        1202    ROT_TWO                         
+        1204    POP_TOP                         
+        1206    BINARY_ADD                      
+        1208    DUP_TOP                         
+        1210    BINARY_ADD                      
+        1212    DUP_TOP                         
+        1214    BINARY_ADD                      
+        1216    BUILD_TUPLE                     0
+        1218    MATCH_SEQUENCE                  
+        1220    ROT_TWO                         
+        1222    POP_TOP                         
+        1224    BINARY_ADD                      
+        1226    DUP_TOP                         
+        1228    BINARY_ADD                      
+        1230    DUP_TOP                         
+        1232    BINARY_ADD                      
+        1234    BUILD_TUPLE                     0
+        1236    MATCH_SEQUENCE                  
+        1238    ROT_TWO                         
+        1240    POP_TOP                         
+        1242    DUP_TOP                         
+        1244    BINARY_ADD                      
+        1246    BUILD_TUPLE                     0
+        1248    MATCH_SEQUENCE                  
+        1250    ROT_TWO                         
+        1252    POP_TOP                         
+        1254    BINARY_ADD                      
+        1256    DUP_TOP                         
+        1258    BINARY_ADD                      
+        1260    DUP_TOP                         
+        1262    BINARY_ADD                      
+        1264    BUILD_TUPLE                     0
+        1266    MATCH_SEQUENCE                  
+        1268    ROT_TWO                         
+        1270    POP_TOP                         
+        1272    BINARY_ADD                      
+        1274    DUP_TOP                         
+        1276    BINARY_ADD                      
+        1278    DUP_TOP                         
+        1280    BINARY_ADD                      
+        1282    DUP_TOP                         
+        1284    BINARY_ADD                      
+        1286    BUILD_TUPLE                     0
+        1288    MATCH_SEQUENCE                  
+        1290    ROT_TWO                         
+        1292    POP_TOP                         
+        1294    DUP_TOP                         
+        1296    BINARY_ADD                      
+        1298    BUILD_TUPLE                     0
+        1300    MATCH_SEQUENCE                  
+        1302    ROT_TWO                         
+        1304    POP_TOP                         
+        1306    BINARY_ADD                      
+        1308    DUP_TOP                         
+        1310    BINARY_ADD                      
+        1312    DUP_TOP                         
+        1314    BINARY_ADD                      
+        1316    DUP_TOP                         
+        1318    BINARY_ADD                      
+        1320    BUILD_TUPLE                     0
+        1322    MATCH_SEQUENCE                  
+        1324    ROT_TWO                         
+        1326    POP_TOP                         
+        1328    BINARY_ADD                      
+        1330    DUP_TOP                         
+        1332    BINARY_ADD                      
+        1334    DUP_TOP                         
+        1336    BINARY_ADD                      
+        1338    BUILD_TUPLE                     0
+        1340    MATCH_SEQUENCE                  
+        1342    ROT_TWO                         
+        1344    POP_TOP                         
+        1346    BINARY_ADD                      
+        1348    BUILD_TUPLE                     0
+        1350    MATCH_SEQUENCE                  
+        1352    ROT_TWO                         
+        1354    POP_TOP                         
+        1356    DUP_TOP                         
+        1358    BINARY_ADD                      
+        1360    DUP_TOP                         
+        1362    BINARY_ADD                      
+        1364    BUILD_TUPLE                     0
+        1366    MATCH_SEQUENCE                  
+        1368    ROT_TWO                         
+        1370    POP_TOP                         
+        1372    BINARY_ADD                      
+        1374    DUP_TOP                         
+        1376    BINARY_ADD                      
+        1378    BUILD_TUPLE                     0
+        1380    MATCH_SEQUENCE                  
+        1382    ROT_TWO                         
+        1384    POP_TOP                         
+        1386    BINARY_ADD                      
+        1388    DUP_TOP                         
+        1390    BINARY_ADD                      
+        1392    BUILD_TUPLE                     0
+        1394    MATCH_SEQUENCE                  
+        1396    ROT_TWO                         
+        1398    POP_TOP                         
+        1400    BINARY_ADD                      
+        1402    DUP_TOP                         
+        1404    BINARY_ADD                      
+        1406    BUILD_TUPLE                     0
+        1408    MATCH_SEQUENCE                  
+        1410    ROT_TWO                         
+        1412    POP_TOP                         
+        1414    BINARY_ADD                      
+        1416    DUP_TOP                         
+        1418    BINARY_ADD                      
+        1420    BUILD_TUPLE                     0
+        1422    MATCH_SEQUENCE                  
+        1424    ROT_TWO                         
+        1426    POP_TOP                         
+        1428    BINARY_ADD                      
+        1430    BUILD_TUPLE                     0
+        1432    MATCH_SEQUENCE                  
+        1434    ROT_TWO                         
+        1436    POP_TOP                         
+        1438    DUP_TOP                         
+        1440    BINARY_ADD                      
+        1442    BUILD_TUPLE                     0
+        1444    MATCH_SEQUENCE                  
+        1446    ROT_TWO                         
+        1448    POP_TOP                         
+        1450    BINARY_ADD                      
+        1452    DUP_TOP                         
+        1454    BINARY_ADD                      
+        1456    DUP_TOP                         
+        1458    BINARY_ADD                      
+        1460    BUILD_TUPLE                     0
+        1462    MATCH_SEQUENCE                  
+        1464    ROT_TWO                         
+        1466    POP_TOP                         
+        1468    BINARY_ADD                      
+        1470    DUP_TOP                         
+        1472    BINARY_ADD                      
+        1474    BUILD_TUPLE                     0
+        1476    MATCH_SEQUENCE                  
+        1478    ROT_TWO                         
+        1480    POP_TOP                         
+        1482    BINARY_ADD                      
+        1484    DUP_TOP                         
+        1486    BINARY_ADD                      
+        1488    BUILD_TUPLE                     0
+        1490    MATCH_SEQUENCE                  
+        1492    ROT_TWO                         
+        1494    POP_TOP                         
+        1496    BINARY_ADD                      
+        1498    DUP_TOP                         
+        1500    BINARY_ADD                      
+        1502    BUILD_TUPLE                     0
+        1504    MATCH_SEQUENCE                  
+        1506    ROT_TWO                         
+        1508    POP_TOP                         
+        1510    BINARY_ADD                      
+        1512    BUILD_TUPLE                     0
+        1514    MATCH_SEQUENCE                  
+        1516    ROT_TWO                         
+        1518    POP_TOP                         
+        1520    DUP_TOP                         
+        1522    BINARY_ADD                      
+        1524    BUILD_TUPLE                     0
+        1526    MATCH_SEQUENCE                  
+        1528    ROT_TWO                         
+        1530    POP_TOP                         
+        1532    BINARY_ADD                      
+        1534    DUP_TOP                         
+        1536    BINARY_ADD                      
+        1538    DUP_TOP                         
+        1540    BINARY_ADD                      
+        1542    BUILD_TUPLE                     0
+        1544    MATCH_SEQUENCE                  
+        1546    ROT_TWO                         
+        1548    POP_TOP                         
+        1550    BINARY_ADD                      
+        1552    DUP_TOP                         
+        1554    BINARY_ADD                      
+        1556    BUILD_TUPLE                     0
+        1558    MATCH_SEQUENCE                  
+        1560    ROT_TWO                         
+        1562    POP_TOP                         
+        1564    BINARY_ADD                      
+        1566    DUP_TOP                         
+        1568    BINARY_ADD                      
+        1570    BUILD_TUPLE                     0
+        1572    MATCH_SEQUENCE                  
+        1574    ROT_TWO                         
+        1576    POP_TOP                         
+        1578    BINARY_ADD                      
+        1580    DUP_TOP                         
+        1582    BINARY_ADD                      
+        1584    BUILD_TUPLE                     0
+        1586    MATCH_SEQUENCE                  
+        1588    ROT_TWO                         
+        1590    POP_TOP                         
+        1592    BINARY_ADD                      
+        1594    BUILD_TUPLE                     0
+        1596    MATCH_SEQUENCE                  
+        1598    ROT_TWO                         
+        1600    POP_TOP                         
+        1602    DUP_TOP                         
+        1604    BINARY_ADD                      
+        1606    BUILD_TUPLE                     0
+        1608    MATCH_SEQUENCE                  
+        1610    ROT_TWO                         
+        1612    POP_TOP                         
+        1614    BINARY_ADD                      
+        1616    DUP_TOP                         
+        1618    BINARY_ADD                      
+        1620    DUP_TOP                         
+        1622    BINARY_ADD                      
+        1624    DUP_TOP                         
+        1626    BINARY_ADD                      
+        1628    DUP_TOP                         
+        1630    BINARY_ADD                      
+        1632    BUILD_TUPLE                     0
+        1634    MATCH_SEQUENCE                  
+        1636    ROT_TWO                         
+        1638    POP_TOP                         
+        1640    BINARY_ADD                      
+        1642    DUP_TOP                         
+        1644    BINARY_ADD                      
+        1646    BUILD_TUPLE                     0
+        1648    MATCH_SEQUENCE                  
+        1650    ROT_TWO                         
+        1652    POP_TOP                         
+        1654    DUP_TOP                         
+        1656    BINARY_ADD                      
+        1658    DUP_TOP                         
+        1660    BINARY_ADD                      
+        1662    BUILD_TUPLE                     0
+        1664    MATCH_SEQUENCE                  
+        1666    ROT_TWO                         
+        1668    POP_TOP                         
+        1670    BINARY_ADD                      
+        1672    DUP_TOP                         
+        1674    BINARY_ADD                      
+        1676    BUILD_TUPLE                     0
+        1678    MATCH_SEQUENCE                  
+        1680    ROT_TWO                         
+        1682    POP_TOP                         
+        1684    BINARY_ADD                      
+        1686    DUP_TOP                         
+        1688    BINARY_ADD                      
+        1690    BUILD_TUPLE                     0
+        1692    MATCH_SEQUENCE                  
+        1694    ROT_TWO                         
+        1696    POP_TOP                         
+        1698    BINARY_ADD                      
+        1700    DUP_TOP                         
+        1702    BINARY_ADD                      
+        1704    BUILD_TUPLE                     0
+        1706    MATCH_SEQUENCE                  
+        1708    ROT_TWO                         
+        1710    POP_TOP                         
+        1712    BINARY_ADD                      
+        1714    DUP_TOP                         
+        1716    BINARY_ADD                      
+        1718    BUILD_TUPLE                     0
+        1720    MATCH_SEQUENCE                  
+        1722    ROT_TWO                         
+        1724    POP_TOP                         
+        1726    BINARY_ADD                      
+        1728    BUILD_TUPLE                     0
+        1730    MATCH_SEQUENCE                  
+        1732    ROT_TWO                         
+        1734    POP_TOP                         
+        1736    DUP_TOP                         
+        1738    BINARY_ADD                      
+        1740    DUP_TOP                         
+        1742    BINARY_ADD                      
+        1744    DUP_TOP                         
+        1746    BINARY_ADD                      
+        1748    BUILD_TUPLE                     0
+        1750    MATCH_SEQUENCE                  
+        1752    ROT_TWO                         
+        1754    POP_TOP                         
+        1756    BINARY_ADD                      
+        1758    DUP_TOP                         
+        1760    BINARY_ADD                      
+        1762    BUILD_TUPLE                     0
+        1764    MATCH_SEQUENCE                  
+        1766    ROT_TWO                         
+        1768    POP_TOP                         
+        1770    BINARY_ADD                      
+        1772    DUP_TOP                         
+        1774    BINARY_ADD                      
+        1776    DUP_TOP                         
+        1778    BINARY_ADD                      
+        1780    BUILD_TUPLE                     0
+        1782    MATCH_SEQUENCE                  
+        1784    ROT_TWO                         
+        1786    POP_TOP                         
+        1788    DUP_TOP                         
+        1790    BINARY_ADD                      
+        1792    BUILD_TUPLE                     0
+        1794    MATCH_SEQUENCE                  
+        1796    ROT_TWO                         
+        1798    POP_TOP                         
+        1800    BINARY_ADD                      
+        1802    DUP_TOP                         
+        1804    BINARY_ADD                      
+        1806    DUP_TOP                         
+        1808    BINARY_ADD                      
+        1810    DUP_TOP                         
+        1812    BINARY_ADD                      
+        1814    DUP_TOP                         
+        1816    BINARY_ADD                      
+        1818    BUILD_TUPLE                     0
+        1820    MATCH_SEQUENCE                  
+        1822    ROT_TWO                         
+        1824    POP_TOP                         
+        1826    DUP_TOP                         
+        1828    BINARY_ADD                      
+        1830    BUILD_TUPLE                     0
+        1832    MATCH_SEQUENCE                  
+        1834    ROT_TWO                         
+        1836    POP_TOP                         
+        1838    BINARY_ADD                      
+        1840    DUP_TOP                         
+        1842    BINARY_ADD                      
+        1844    DUP_TOP                         
+        1846    BINARY_ADD                      
+        1848    BUILD_TUPLE                     0
+        1850    MATCH_SEQUENCE                  
+        1852    ROT_TWO                         
+        1854    POP_TOP                         
+        1856    BINARY_ADD                      
+        1858    DUP_TOP                         
+        1860    BINARY_ADD                      
+        1862    DUP_TOP                         
+        1864    BINARY_ADD                      
+        1866    BUILD_TUPLE                     0
+        1868    MATCH_SEQUENCE                  
+        1870    ROT_TWO                         
+        1872    POP_TOP                         
+        1874    DUP_TOP                         
+        1876    BINARY_ADD                      
+        1878    DUP_TOP                         
+        1880    BINARY_ADD                      
+        1882    DUP_TOP                         
+        1884    BINARY_ADD                      
+        1886    DUP_TOP                         
+        1888    BINARY_ADD                      
+        1890    BUILD_TUPLE                     0
+        1892    MATCH_SEQUENCE                  
+        1894    ROT_TWO                         
+        1896    POP_TOP                         
+        1898    BINARY_ADD                      
+        1900    DUP_TOP                         
+        1902    BINARY_ADD                      
+        1904    DUP_TOP                         
+        1906    BINARY_ADD                      
+        1908    BUILD_TUPLE                     0
+        1910    MATCH_SEQUENCE                  
+        1912    ROT_TWO                         
+        1914    POP_TOP                         
+        1916    DUP_TOP                         
+        1918    BINARY_ADD                      
+        1920    DUP_TOP                         
+        1922    BINARY_ADD                      
+        1924    BUILD_TUPLE                     0
+        1926    MATCH_SEQUENCE                  
+        1928    ROT_TWO                         
+        1930    POP_TOP                         
+        1932    BINARY_ADD                      
+        1934    DUP_TOP                         
+        1936    BINARY_ADD                      
+        1938    BUILD_TUPLE                     0
+        1940    MATCH_SEQUENCE                  
+        1942    ROT_TWO                         
+        1944    POP_TOP                         
+        1946    BINARY_ADD                      
+        1948    DUP_TOP                         
+        1950    BINARY_ADD                      
+        1952    BUILD_TUPLE                     0
+        1954    MATCH_SEQUENCE                  
+        1956    ROT_TWO                         
+        1958    POP_TOP                         
+        1960    BINARY_ADD                      
+        1962    DUP_TOP                         
+        1964    BINARY_ADD                      
+        1966    BUILD_TUPLE                     0
+        1968    MATCH_SEQUENCE                  
+        1970    ROT_TWO                         
+        1972    POP_TOP                         
+        1974    BINARY_ADD                      
+        1976    DUP_TOP                         
+        1978    BINARY_ADD                      
+        1980    BUILD_TUPLE                     0
+        1982    MATCH_SEQUENCE                  
+        1984    ROT_TWO                         
+        1986    POP_TOP                         
+        1988    BINARY_ADD                      
+        1990    BUILD_TUPLE                     0
+        1992    MATCH_SEQUENCE                  
+        1994    ROT_TWO                         
+        1996    POP_TOP                         
+        1998    DUP_TOP                         
+        2000    BINARY_ADD                      
+        2002    DUP_TOP                         
+        2004    BINARY_ADD                      
+        2006    DUP_TOP                         
+        2008    BINARY_ADD                      
+        2010    DUP_TOP                         
+        2012    BINARY_ADD                      
+        2014    DUP_TOP                         
+        2016    BINARY_ADD                      
+        2018    BUILD_TUPLE                     0
+        2020    MATCH_SEQUENCE                  
+        2022    ROT_TWO                         
+        2024    POP_TOP                         
+        2026    BINARY_ADD                      
+        2028    DUP_TOP                         
+        2030    BINARY_ADD                      
+        2032    BUILD_TUPLE                     0
+        2034    MATCH_SEQUENCE                  
+        2036    ROT_TWO                         
+        2038    POP_TOP                         
+        2040    BINARY_ADD                      
+        2042    BUILD_TUPLE                     0
+        2044    MATCH_SEQUENCE                  
+        2046    ROT_TWO                         
+        2048    POP_TOP                         
+        2050    DUP_TOP                         
+        2052    BINARY_ADD                      
+        2054    BUILD_TUPLE                     0
+        2056    MATCH_SEQUENCE                  
+        2058    ROT_TWO                         
+        2060    POP_TOP                         
+        2062    BINARY_ADD                      
+        2064    DUP_TOP                         
+        2066    BINARY_ADD                      
+        2068    DUP_TOP                         
+        2070    BINARY_ADD                      
+        2072    DUP_TOP                         
+        2074    BINARY_ADD                      
+        2076    DUP_TOP                         
+        2078    BINARY_ADD                      
+        2080    BUILD_TUPLE                     0
+        2082    MATCH_SEQUENCE                  
+        2084    ROT_TWO                         
+        2086    POP_TOP                         
+        2088    DUP_TOP                         
+        2090    BINARY_ADD                      
+        2092    DUP_TOP                         
+        2094    BINARY_ADD                      
+        2096    DUP_TOP                         
+        2098    BINARY_ADD                      
+        2100    BUILD_TUPLE                     0
+        2102    MATCH_SEQUENCE                  
+        2104    ROT_TWO                         
+        2106    POP_TOP                         
+        2108    BINARY_ADD                      
+        2110    DUP_TOP                         
+        2112    BINARY_ADD                      
+        2114    BUILD_TUPLE                     0
+        2116    MATCH_SEQUENCE                  
+        2118    ROT_TWO                         
+        2120    POP_TOP                         
+        2122    BINARY_ADD                      
+        2124    DUP_TOP                         
+        2126    BINARY_ADD                      
+        2128    BUILD_TUPLE                     0
+        2130    MATCH_SEQUENCE                  
+        2132    ROT_TWO                         
+        2134    POP_TOP                         
+        2136    BINARY_ADD                      
+        2138    DUP_TOP                         
+        2140    BINARY_ADD                      
+        2142    BUILD_TUPLE                     0
+        2144    MATCH_SEQUENCE                  
+        2146    ROT_TWO                         
+        2148    POP_TOP                         
+        2150    DUP_TOP                         
+        2152    BINARY_ADD                      
+        2154    BUILD_TUPLE                     0
+        2156    MATCH_SEQUENCE                  
+        2158    ROT_TWO                         
+        2160    POP_TOP                         
+        2162    BINARY_ADD                      
+        2164    DUP_TOP                         
+        2166    BINARY_ADD                      
+        2168    DUP_TOP                         
+        2170    BINARY_ADD                      
+        2172    BUILD_TUPLE                     0
+        2174    MATCH_SEQUENCE                  
+        2176    ROT_TWO                         
+        2178    POP_TOP                         
+        2180    BINARY_ADD                      
+        2182    DUP_TOP                         
+        2184    BINARY_ADD                      
+        2186    DUP_TOP                         
+        2188    BINARY_ADD                      
+        2190    BUILD_TUPLE                     0
+        2192    MATCH_SEQUENCE                  
+        2194    ROT_TWO                         
+        2196    POP_TOP                         
+        2198    BINARY_ADD                      
+        2200    BUILD_TUPLE                     0
+        2202    MATCH_SEQUENCE                  
+        2204    ROT_TWO                         
+        2206    POP_TOP                         
+        2208    DUP_TOP                         
+        2210    BINARY_ADD                      
+        2212    DUP_TOP                         
+        2214    BINARY_ADD                      
+        2216    BUILD_TUPLE                     0
+        2218    MATCH_SEQUENCE                  
+        2220    ROT_TWO                         
+        2222    POP_TOP                         
+        2224    BINARY_ADD                      
+        2226    DUP_TOP                         
+        2228    BINARY_ADD                      
+        2230    DUP_TOP                         
+        2232    BINARY_ADD                      
+        2234    BUILD_TUPLE                     0
+        2236    MATCH_SEQUENCE                  
+        2238    ROT_TWO                         
+        2240    POP_TOP                         
+        2242    BINARY_ADD                      
+        2244    DUP_TOP                         
+        2246    BINARY_ADD                      
+        2248    DUP_TOP                         
+        2250    BINARY_ADD                      
+        2252    BUILD_TUPLE                     0
+        2254    MATCH_SEQUENCE                  
+        2256    ROT_TWO                         
+        2258    POP_TOP                         
+        2260    DUP_TOP                         
+        2262    BINARY_ADD                      
+        2264    BUILD_TUPLE                     0
+        2266    MATCH_SEQUENCE                  
+        2268    ROT_TWO                         
+        2270    POP_TOP                         
+        2272    BINARY_ADD                      
+        2274    DUP_TOP                         
+        2276    BINARY_ADD                      
+        2278    BUILD_TUPLE                     0
+        2280    MATCH_SEQUENCE                  
+        2282    ROT_TWO                         
+        2284    POP_TOP                         
+        2286    BINARY_ADD                      
+        2288    DUP_TOP                         
+        2290    BINARY_ADD                      
+        2292    BUILD_TUPLE                     0
+        2294    MATCH_SEQUENCE                  
+        2296    ROT_TWO                         
+        2298    POP_TOP                         
+        2300    BINARY_ADD                      
+        2302    DUP_TOP                         
+        2304    BINARY_ADD                      
+        2306    BUILD_TUPLE                     0
+        2308    MATCH_SEQUENCE                  
+        2310    ROT_TWO                         
+        2312    POP_TOP                         
+        2314    BINARY_ADD                      
+        2316    DUP_TOP                         
+        2318    BINARY_ADD                      
+        2320    BUILD_TUPLE                     0
+        2322    MATCH_SEQUENCE                  
+        2324    ROT_TWO                         
+        2326    POP_TOP                         
+        2328    BINARY_ADD                      
+        2330    BUILD_TUPLE                     0
+        2332    MATCH_SEQUENCE                  
+        2334    ROT_TWO                         
+        2336    POP_TOP                         
+        2338    DUP_TOP                         
+        2340    BINARY_ADD                      
+        2342    BUILD_TUPLE                     0
+        2344    MATCH_SEQUENCE                  
+        2346    ROT_TWO                         
+        2348    POP_TOP                         
+        2350    BINARY_ADD                      
+        2352    DUP_TOP                         
+        2354    BINARY_ADD                      
+        2356    BUILD_TUPLE                     0
+        2358    MATCH_SEQUENCE                  
+        2360    ROT_TWO                         
+        2362    POP_TOP                         
+        2364    BINARY_ADD                      
+        2366    DUP_TOP                         
+        2368    BINARY_ADD                      
+        2370    BUILD_TUPLE                     0
+        2372    MATCH_SEQUENCE                  
+        2374    ROT_TWO                         
+        2376    POP_TOP                         
+        2378    BINARY_ADD                      
+        2380    DUP_TOP                         
+        2382    BINARY_ADD                      
+        2384    BUILD_TUPLE                     0
+        2386    MATCH_SEQUENCE                  
+        2388    ROT_TWO                         
+        2390    POP_TOP                         
+        2392    BINARY_ADD                      
+        2394    DUP_TOP                         
+        2396    BINARY_ADD                      
+        2398    DUP_TOP                         
+        2400    BINARY_ADD                      
+        2402    BUILD_TUPLE                     0
+        2404    MATCH_SEQUENCE                  
+        2406    ROT_TWO                         
+        2408    POP_TOP                         
+        2410    BINARY_ADD                      
+        2412    BUILD_TUPLE                     38
+        2414    CALL_FUNCTION                   1
+        2416    CALL_FUNCTION                   1
+        2418    BUILD_TUPLE                     0
+        2420    MATCH_SEQUENCE                  
+        2422    ROT_TWO                         
+        2424    POP_TOP                         
+        2426    DUP_TOP                         
+        2428    BINARY_ADD                      
+        2430    BUILD_TUPLE                     0
+        2432    MATCH_SEQUENCE                  
+        2434    ROT_TWO                         
+        2436    POP_TOP                         
+        2438    UNARY_NEGATIVE                  
+        2440    BUILD_SLICE                     2
+        2442    BINARY_SUBSCR                   
+        2444    COMPARE_OP                      2 (==)
+        2446    POP_JUMP_IF_FALSE               0 (to 0)
+        2448    LOAD_NAME                       1: input
+        2450    LOAD_CONST                      1: 'CORRECT'
+        2452    CALL_FUNCTION                   1
+        2454    RETURN_VALUE                    
