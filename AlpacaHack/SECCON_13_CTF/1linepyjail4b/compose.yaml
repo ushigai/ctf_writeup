@@ -1,0 +1,7 @@
+services:
+  sandbox:
+    build: .
+    restart: unless-stopped
+    ports:
+      - ${PORT:-3333}:5000
+    privileged: true
